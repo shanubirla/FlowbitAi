@@ -298,9 +298,4 @@ If extended, it can support polygon editing, user authentication, multi-layer wo
 
 ---
 
-If you want:
 
-✅ A short version
-✅ A recruiter-focused version
-✅ A more technical version
-Just tell me — I can generate it.
